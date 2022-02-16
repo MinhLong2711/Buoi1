@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>THÔNG TIN</title>
+		<meta charset="utf-8">
+		<link rel="icon" type="image/x-icon" href="favicon.gif">
+	</head>
+	<body bgcolor="pink" background="sky.jpg">
+	<h2>THÔNG TIN CÁ NHÂN </h2>
+	<hr color="blue">
+	<img src="faze.png.png"alt="Hình đại diện" align="left" width="170">
+	<p>Họ và tên: <b>Nguyễn Hoàng Minh Long </b></p>
+	<p>Ngày tháng năm sinh:27/11/2000</p>
+	<p>Địa chỉ: Số 1 Hùng Vương </p>
+	<p>Nơi làm việc: ???</p>
+	<p>Điện thoại: <a href="tel:+84123456666"> </a>0123456666</p>
+	<p>Email: <a href="mailto:longdeptrai123@gmail.com"><i>longdeptraihaha@gmail.com</i> </a> </p>
+	
+	<p> Sở thích: </p>
+	<ul type="circle" >
+		<li> Nghe nhạc </li>
+		<li> Chơi game </li>
+		<li> Du lịch </li>
+	</ul>
+	<p> Các trang web yêu thích: </p>
+	<table border="1" width="100%" >
+		<tr>
+			<td width="50%"> <a href="https://youtube.com" target="_blank" >Youtube</a> </td>
+			<td width="50%"> <a href="https://nimo.tv"target="_blank"   >NimoTv </a> </td>
+		</tr>
+		<tr>
+			<td> <a href="https://instagram.com" target="_blank" > Instagram </a> </td>
+			<td>  <a href="https://facebook.com" target="_blank" > Facebook </a> </td>
+		</tr>
+		<tr>
+			<td>   <a href="https://soundcloud.com"target="_blank" >SoundCloud</a> </td>
+			<td>   <a href="https://discord.com" "target="_blank" > Discord </a> </td>
+		</tr>
+	
+	
+		
+	</body>
+</html>
